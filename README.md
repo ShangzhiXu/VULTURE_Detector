@@ -3,7 +3,7 @@
 VULTURE is designed to detect 1-day vulnerabilities arise from vulnerable TPL reuses. 
 #### Our paper: **Enhancing Security in Third-Party Library Reuse - Comprehensive Detection of 1-day Vulnerabilitythrough Code Patch Analysis** is now accepted by NDSS'25!
 
-### The code will be available after NDSS'25
+### The code is available at https://github.com/ShangzhiXu/VULTURE
 
 **Dataset** is available at: https://zenodo.org/records/13824990
 
